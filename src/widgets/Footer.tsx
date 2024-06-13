@@ -92,7 +92,10 @@ const Footer: FC = () => {
               </defs>
             </svg>
           </a>
-          <a href="">
+          <a
+            href="https://github.com/mundane799699/react-tailwind-agency"
+            target="_blank"
+          >
             <svg
               width="38"
               height="34"
