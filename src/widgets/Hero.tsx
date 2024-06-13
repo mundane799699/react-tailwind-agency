@@ -46,7 +46,7 @@ const Hero: FC = () => {
         <video
           src="https://cdn.dreamfree.xyz/lgnljYIwvNXUzNrV.mp4"
           controls
-          className="w-[768px] h-[432px] object-cover object-top rounded"
+          className="w-[768px] object-cover object-top rounded"
         ></video>
         <div className="flex rounded-full bg-white mt-4 px-5 py-4 drop-shadow-xl">
           <svg
