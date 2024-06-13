@@ -39,7 +39,7 @@ const Footer: FC = () => {
           提供设计.All rights reserved.
         </p>
         <p className="flex gap-4">
-          <a href="">
+          <a href="https://x.com/mundane799699" target="_blank">
             <svg
               width="38"
               height="35"
