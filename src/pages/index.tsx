@@ -1,4 +1,4 @@
-import React, { FC } from "react";
+import { FC } from "react";
 import Header from "../widgets/Header";
 import Hero from "../widgets/Hero";
 import Solutions from "../widgets/Solutions";

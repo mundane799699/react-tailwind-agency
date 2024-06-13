@@ -1,4 +1,4 @@
-import React, { FC } from "react";
+import { FC } from "react";
 import reactLogo from "../assets/react.svg";
 const Footer: FC = () => {
   return (

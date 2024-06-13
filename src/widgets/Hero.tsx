@@ -1,4 +1,4 @@
-import React, { FC } from "react";
+import { FC } from "react";
 const Hero: FC = () => {
   return (
     <div className="grid justify-items-center gap-8 pb-28 relative">

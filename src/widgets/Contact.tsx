@@ -1,4 +1,4 @@
-import React, { FC } from "react";
+import { FC } from "react";
 const Contact: FC = () => {
   return (
     <div className="bg-black md:w-4/5 mx-auto relative overflow-hidden">

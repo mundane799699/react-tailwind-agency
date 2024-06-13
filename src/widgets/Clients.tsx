@@ -1,4 +1,4 @@
-import React, { FC } from "react";
+import { FC } from "react";
 import SectionHeading from "./SectionHeading";
 import Avatar from "../assets/avatar.jpg";
 const Clients: FC = () => {

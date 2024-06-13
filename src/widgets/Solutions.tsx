@@ -1,4 +1,4 @@
-import React, { FC } from "react";
+import { FC } from "react";
 import SectionHeading from "./SectionHeading";
 import Image1 from "../assets/pexels-photo-8348457.jpg";
 const Solutions: FC = () => {
